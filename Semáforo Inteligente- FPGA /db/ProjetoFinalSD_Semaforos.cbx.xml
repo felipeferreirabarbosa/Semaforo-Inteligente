@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="ProjetoFinalSD_Semaforos">
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_compare0:inst1|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_ccj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_compare6:inst10|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_59j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_compare7:inst11|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_counter0:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4lj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_compare2:inst6|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_acj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_compare4:inst8|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_acj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_compare5:inst9|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_acj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|ProjetoFinalSD_Semaforos|lpm_counter1:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_q4i.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
